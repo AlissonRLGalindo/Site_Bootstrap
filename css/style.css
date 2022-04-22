@@ -3,15 +3,18 @@
  }
  
  .navbar {
-     background-color: #298a08;
+     background-color: white;
+     
  }
  
  .logo {
-     margin-left: 15px;
+     margin-left: 650px;
+     margin-top: 15px;
+     
  }
  
  .quem-somos {
-     background-color: #836FFF;
+     background-color: #d4e3db;
      color: white;
  }
  
@@ -21,9 +24,28 @@
  }
  
  .parceiro {
-     background-color: #5882FA;
+    background-color: #a0d7d7;
+    color: white;
  }
  
  .container {
      display: flex;
  }
+ 
+.textservices {
+    
+    padding-left: 0px;
+  
+}
+
+.bg-footer {  
+    background-color: rgb(33, 31, 31);
+    color: rgb(196, 192, 192);
+}
+
+.servicos {
+background-color: #d4e3db;
+color: rgb(60, 62, 62);
+}
+
+.serv {color: white;}
